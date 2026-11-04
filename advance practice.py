@@ -1,8 +1,4 @@
-# Python Practical Programs
-# Each question is followed by its code. Run one practical at a time.
 
-
-# ============================================================
 
 # Question 1: Find the data type of every value in a mixed list.
 
